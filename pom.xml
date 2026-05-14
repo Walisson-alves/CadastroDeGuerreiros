@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>4.0.6</version>
+		<version>4.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.java87</groupId>
 	<artifactId>CadastroDeGuerreiros</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
+	<name>CadastroDeGuerreiros</name>
 	<description>Uma API para cadastro de guerreiros</description>
 	<url/>
 	<licenses>
